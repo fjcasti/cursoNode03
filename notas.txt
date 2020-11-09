@@ -1,0 +1,19 @@
+paquete yargs:  
+    para manejar parametros.
+inicializar el proyecto de node:
+    npm init
+
+Instalamos yargs
+    npm i yargs --save
+    --save  -> esta librería es necesaria para que la aplicación funcione.
+
+con "npm install"  reconstruye las dependencias.    
+
+
+es necesario usar require del paquete que vaya a usar por cada archivo JS
+
+
+GitHub.
+para usar un repositorio hay que inicializarlo con 'git init' en la carpeta deseada.
+
+

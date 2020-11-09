@@ -15,5 +15,7 @@ es necesario usar require del paquete que vaya a usar por cada archivo JS
 
 GitHub.
 para usar un repositorio hay que inicializarlo con 'git init' en la carpeta deseada.
+'.gitignore' controla que ficheros y carpetas ha de ignorar git
+'git status' nos da un resumen del estado del proyecto.
 
 
